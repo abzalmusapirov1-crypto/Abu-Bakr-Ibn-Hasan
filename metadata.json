@@ -1,0 +1,6 @@
+{
+  "name": "AutoRemont Match",
+  "description": "Интеллектуальный подбор автосервисов по цене, отзывам и локации с ИИ-диагностикой неисправностей",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
